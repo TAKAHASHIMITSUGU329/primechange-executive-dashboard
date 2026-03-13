@@ -43,3 +43,8 @@ npm run dev
 ```
 
 Then open `http://localhost:3000`.
+
+Public deployment:
+
+- GitHub Pages is configured via `.github/workflows/deploy-pages.yml`
+- Push to `main` to trigger a Pages deployment from the static `out/` build
