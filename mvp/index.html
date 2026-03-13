@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PRIMECHANGE Executive Dashboard</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="shell">
+      <aside class="sidebar">
+        <div class="brand">
+          <p class="eyebrow">PRIMECHANGE</p>
+          <h1>Executive Dashboard</h1>
+          <p class="muted">社長向け 日次確認版</p>
+        </div>
+        <nav class="nav">
+          <a href="#overview">Overview</a>
+          <a href="#portfolio">Hotels</a>
+          <a href="#actions">Actions</a>
+        </nav>
+      </aside>
+
+      <main class="main">
+        <header class="header" id="overview">
+          <div>
+            <p class="eyebrow">Daily Decision View</p>
+            <h2>売上・品質・アクションを1画面で確認</h2>
+          </div>
+          <div class="timestamp" id="updated-at"></div>
+        </header>
+
+        <section class="hero-grid">
+          <section class="hero panel">
+            <div class="panel-head">
+              <h3>社長向けサマリー</h3>
+              <p>朝の確認用コメント</p>
+            </div>
+            <div id="executive-summary" class="summary-list"></div>
+          </section>
+
+          <section class="hero panel">
+            <div class="panel-head">
+              <h3>今日の焦点</h3>
+              <p>最初に見るべきポイント</p>
+            </div>
+            <div id="focus-strip" class="focus-strip"></div>
+          </section>
+        </section>
+
+        <section class="kpi-grid" id="kpi-grid"></section>
+
+        <section class="panel panel-wide">
+          <div class="panel-head">
+            <h3>売上推移</h3>
+            <p>直近6か月の売上トレンド</p>
+          </div>
+          <div id="revenue-chart" class="chart"></div>
+        </section>
+
+        <section class="two-col" id="portfolio">
+          <div class="panel">
+            <div class="panel-head">
+              <h3>要注意ホテル</h3>
+              <p>品質悪化や不満増加を優先表示</p>
+            </div>
+            <div id="risk-hotels" class="list"></div>
+          </div>
+
+          <div class="panel">
+            <div class="panel-head">
+              <h3>アップセル候補</h3>
+              <p>追加提案で売上拡大しやすいホテル</p>
+            </div>
+            <div id="upsell-hotels" class="list"></div>
+          </div>
+        </section>
+
+        <section class="two-col">
+          <div class="panel">
+            <div class="panel-head">
+              <h3>未達見込みアラート</h3>
+              <p>達成見込み90%未満を優先表示</p>
+            </div>
+            <div id="forecast-alerts" class="list"></div>
+          </div>
+
+          <div class="panel">
+            <div class="panel-head">
+              <h3>悪化ランキング</h3>
+              <p>前月比で悪化が大きいホテル</p>
+            </div>
+            <div id="worsening-hotels" class="list"></div>
+          </div>
+        </section>
+
+        <section class="panel panel-wide">
+          <div class="panel-head">
+            <h3>ホテル別サマリー</h3>
+            <p>売上と清掃品質を横断比較</p>
+          </div>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>ホテル</th>
+                  <th>地域</th>
+                  <th>3月月商</th>
+                  <th>3月着地見込</th>
+                  <th>2月月商</th>
+                  <th>目標差額</th>
+                  <th>進捗率</th>
+                  <th>達成見込</th>
+                  <th>利益率</th>
+                  <th>利益率差</th>
+                  <th>稼働率</th>
+                  <th>稼働率差</th>
+                  <th>平均評価</th>
+                  <th>評価差</th>
+                  <th>清掃ネガ率</th>
+                  <th>ネガ率差</th>
+                  <th>特別清掃</th>
+                  <th>主要課題</th>
+                  <th>次アクション</th>
+                </tr>
+              </thead>
+              <tbody id="hotel-table-body"></tbody>
+            </table>
+          </div>
+        </section>
+
+        <section class="panel panel-wide" id="actions">
+          <div class="panel-head">
+            <h3>今日のアクション</h3>
+            <p>社長が朝に見て指示できる項目</p>
+          </div>
+          <div id="action-list" class="action-list"></div>
+        </section>
+      </main>
+    </div>
+
+    <script src="../data/sample-data.js"></script>
+    <script src="../data/live-data.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>

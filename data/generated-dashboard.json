@@ -1,0 +1,1199 @@
+{
+  "updatedAt": "2026/03/13 13:05:35",
+  "summary": {
+    "monthlyRevenue": 41730661.4,
+    "previousMonthlyRevenue": 99847777.0,
+    "projectedMonthlyRevenue": 99511577.2,
+    "revenueDeltaPct": -58.2,
+    "activeHotels": 19,
+    "atRiskHotels": 4,
+    "upsellCandidates": 16,
+    "specialCleaningRevenue": 630000.0,
+    "avgReviewScore": 8.5,
+    "cleaningNegativeRate": 6.2,
+    "avgReviewDelta": -0.2,
+    "cleaningNegativeRateDelta": 1.1,
+    "improvedHotels": 5,
+    "worsenedHotels": 9,
+    "elapsedDays": 13,
+    "daysInMonth": 31,
+    "avgTargetProgressPct": 39.8,
+    "avgProjectedTargetAttainmentPct": 94.9
+  },
+  "revenueTrend": [
+    {
+      "month": "2026-02",
+      "revenue": 99847777.0
+    },
+    {
+      "month": "2026-03",
+      "revenue": 41730661.4
+    }
+  ],
+  "hotels": [
+    {
+      "name": "コンフォートスイーツ東京ベイ",
+      "region": "東京",
+      "monthlyRevenue": 5494064.516,
+      "previousRevenue": 13228360.0,
+      "targetRevenue": 14425534.75,
+      "marginPct": 27.0,
+      "previousMarginPct": 29.5,
+      "targetMarginPct": 27.2,
+      "occupancyPct": 73.3,
+      "previousOccupancyPct": 72.1,
+      "variableCostRate": 63.8,
+      "netProfit": 1556324.468,
+      "previousNetProfit": 3898103.167,
+      "claimRate": 0.11,
+      "specialCleaningRevenue": null,
+      "specialCleaningCost": null,
+      "avgReview": 9.1,
+      "reviewCount": 130,
+      "cleaningNegativeRate": 0.8,
+      "cleaningPositiveCount": 37,
+      "cleaningNegativeCount": 1,
+      "mainIssue": "水回り臭気",
+      "mainPraise": "清潔感",
+      "riskLevel": "low",
+      "upsellLevel": "high",
+      "nextAction": "高品質維持を前提に特別清掃メニューを提案",
+      "revenueTrend": [
+        {
+          "month": "2026-02",
+          "revenue": 13228360.0
+        },
+        {
+          "month": "2026-03",
+          "revenue": 5494064.516
+        }
+      ],
+      "elapsedDays": 13,
+      "daysInMonth": 31,
+      "projectedRevenue": 13101230.768923078,
+      "targetProgressPct": 38.1,
+      "projectedTargetAttainmentPct": 90.8,
+      "currentMonthMetrics": {
+        "reviewCount": 56,
+        "avgReview": 9.0,
+        "cleaningNegativeRate": 1.8
+      },
+      "previousMonthMetrics": {
+        "reviewCount": 74,
+        "avgReview": 9.1,
+        "cleaningNegativeRate": 0.0
+      },
+      "revenueDelta": -7734295.484,
+      "marginDelta": -2.5,
+      "occupancyDelta": 1.2,
+      "reviewDelta": -0.1,
+      "cleaningNegativeRateDelta": 1.8
+    },
+    {
+      "name": "ハートンホテル東品川",
+      "region": "東京",
+      "monthlyRevenue": 4872496.452,
+      "previousRevenue": 11211550.0,
+      "targetRevenue": 12418782.0,
+      "marginPct": 24.0,
+      "previousMarginPct": 28.3,
+      "targetMarginPct": 26.5,
+      "occupancyPct": 82.1,
+      "previousOccupancyPct": 79.7,
+      "variableCostRate": 60.8,
+      "netProfit": 1326313.22,
+      "previousNetProfit": 3168190.708,
+      "claimRate": 0.04,
+      "specialCleaningRevenue": null,
+      "specialCleaningCost": null,
+      "avgReview": 8.4,
+      "reviewCount": 140,
+      "cleaningNegativeRate": 5.0,
+      "cleaningPositiveCount": 38,
+      "cleaningNegativeCount": 7,
+      "mainIssue": "仕上がり不足",
+      "mainPraise": "清潔感",
+      "riskLevel": "medium",
+      "upsellLevel": "high",
+      "nextAction": "客室仕上がり監査と最終チェック強化を提案",
+      "revenueTrend": [
+        {
+          "month": "2026-02",
+          "revenue": 11211550.0
+        },
+        {
+          "month": "2026-03",
+          "revenue": 4872496.452
+        }
+      ],
+      "elapsedDays": 13,
+      "daysInMonth": 31,
+      "projectedRevenue": 11619030.000923077,
+      "targetProgressPct": 39.2,
+      "projectedTargetAttainmentPct": 93.6,
+      "currentMonthMetrics": {
+        "reviewCount": 66,
+        "avgReview": 8.4,
+        "cleaningNegativeRate": 4.5
+      },
+      "previousMonthMetrics": {
+        "reviewCount": 74,
+        "avgReview": 8.5,
+        "cleaningNegativeRate": 5.4
+      },
+      "revenueDelta": -6339053.548,
+      "marginDelta": -4.2,
+      "occupancyDelta": 2.4,
+      "reviewDelta": -0.1,
+      "cleaningNegativeRateDelta": -0.9
+    },
+    {
+      "name": "川崎日航ホテル",
+      "region": "神奈川",
+      "monthlyRevenue": 2998244.194,
+      "previousRevenue": 7168120.0,
+      "targetRevenue": 7849340.0,
+      "marginPct": 17.9,
+      "previousMarginPct": 21.9,
+      "targetMarginPct": 20.6,
+      "occupancyPct": 80.2,
+      "previousOccupancyPct": 79.4,
+      "variableCostRate": 67.1,
+      "netProfit": 620592.4086,
+      "previousNetProfit": 1568741.104,
+      "claimRate": null,
+      "specialCleaningRevenue": null,
+      "specialCleaningCost": null,
+      "avgReview": 8.8,
+      "reviewCount": 122,
+      "cleaningNegativeRate": 4.9,
+      "cleaningPositiveCount": 20,
+      "cleaningNegativeCount": 6,
+      "mainIssue": "騒音",
+      "mainPraise": "清潔感",
+      "riskLevel": "low",
+      "upsellLevel": "high",
+      "nextAction": "高品質維持を前提に特別清掃メニューを提案",
+      "revenueTrend": [
+        {
+          "month": "2026-02",
+          "revenue": 7168120.0
+        },
+        {
+          "month": "2026-03",
+          "revenue": 2998244.194
+        }
+      ],
+      "elapsedDays": 13,
+      "daysInMonth": 31,
+      "projectedRevenue": 7149659.231846154,
+      "targetProgressPct": 38.2,
+      "projectedTargetAttainmentPct": 91.1,
+      "currentMonthMetrics": {
+        "reviewCount": 48,
+        "avgReview": 8.8,
+        "cleaningNegativeRate": 2.1
+      },
+      "previousMonthMetrics": {
+        "reviewCount": 74,
+        "avgReview": 8.8,
+        "cleaningNegativeRate": 6.8
+      },
+      "revenueDelta": -4169875.806,
+      "marginDelta": -4.0,
+      "occupancyDelta": 0.8,
+      "reviewDelta": 0.0,
+      "cleaningNegativeRateDelta": -4.7
+    },
+    {
+      "name": "コンフォートホテル博多",
+      "region": "福岡",
+      "monthlyRevenue": 2394772.903,
+      "previousRevenue": 5764630.0,
+      "targetRevenue": 5955991.5,
+      "marginPct": 27.1,
+      "previousMarginPct": 25.2,
+      "targetMarginPct": 24.1,
+      "occupancyPct": 76.6,
+      "previousOccupancyPct": 78.1,
+      "variableCostRate": 63.5,
+      "netProfit": 677729.0323,
+      "previousNetProfit": 1451161.667,
+      "claimRate": 0.1,
+      "specialCleaningRevenue": null,
+      "specialCleaningCost": null,
+      "avgReview": 8.0,
+      "reviewCount": 125,
+      "cleaningNegativeRate": 12.8,
+      "cleaningPositiveCount": 31,
+      "cleaningNegativeCount": 16,
+      "mainIssue": "水回り臭気",
+      "mainPraise": "清潔感",
+      "riskLevel": "high",
+      "upsellLevel": "high",
+      "nextAction": "臭気対策と水回り重点点検を提案",
+      "revenueTrend": [
+        {
+          "month": "2026-02",
+          "revenue": 5764630.0
+        },
+        {
+          "month": "2026-03",
+          "revenue": 2394772.903
+        }
+      ],
+      "elapsedDays": 13,
+      "daysInMonth": 31,
+      "projectedRevenue": 5710612.307153846,
+      "targetProgressPct": 40.2,
+      "projectedTargetAttainmentPct": 95.9,
+      "currentMonthMetrics": {
+        "reviewCount": 51,
+        "avgReview": 8.3,
+        "cleaningNegativeRate": 9.8
+      },
+      "previousMonthMetrics": {
+        "reviewCount": 74,
+        "avgReview": 7.9,
+        "cleaningNegativeRate": 14.9
+      },
+      "revenueDelta": -3369857.097,
+      "marginDelta": 1.9,
+      "occupancyDelta": -1.5,
+      "reviewDelta": 0.4,
+      "cleaningNegativeRateDelta": -5.1
+    },
+    {
+      "name": "チサンホテル浜松町",
+      "region": "東京",
+      "monthlyRevenue": 2335778.71,
+      "previousRevenue": 5578650.0,
+      "targetRevenue": 6378376.0,
+      "marginPct": 42.2,
+      "previousMarginPct": 45.2,
+      "targetMarginPct": 44.3,
+      "occupancyPct": 72.7,
+      "previousOccupancyPct": 67.8,
+      "variableCostRate": 52.4,
+      "netProfit": 1003140.645,
+      "previousNetProfit": 2519307.5,
+      "claimRate": 0.03,
+      "specialCleaningRevenue": null,
+      "specialCleaningCost": null,
+      "avgReview": 7.1,
+      "reviewCount": 57,
+      "cleaningNegativeRate": 12.3,
+      "cleaningPositiveCount": 13,
+      "cleaningNegativeCount": 7,
+      "mainIssue": "仕上がり不足",
+      "mainPraise": "清潔感",
+      "riskLevel": "high",
+      "upsellLevel": "high",
+      "nextAction": "客室仕上がり監査と最終チェック強化を提案",
+      "revenueTrend": [
+        {
+          "month": "2026-02",
+          "revenue": 5578650.0
+        },
+        {
+          "month": "2026-03",
+          "revenue": 2335778.71
+        }
+      ],
+      "elapsedDays": 13,
+      "daysInMonth": 31,
+      "projectedRevenue": 5569933.8469230775,
+      "targetProgressPct": 36.6,
+      "projectedTargetAttainmentPct": 87.3,
+      "currentMonthMetrics": {
+        "reviewCount": 18,
+        "avgReview": 6.4,
+        "cleaningNegativeRate": 22.2
+      },
+      "previousMonthMetrics": {
+        "reviewCount": 39,
+        "avgReview": 7.4,
+        "cleaningNegativeRate": 7.7
+      },
+      "revenueDelta": -3242871.29,
+      "marginDelta": -2.9,
+      "occupancyDelta": 4.9,
+      "reviewDelta": -1.0,
+      "cleaningNegativeRateDelta": 14.5
+    },
+    {
+      "name": "変なホテル東京羽田",
+      "region": "東京",
+      "monthlyRevenue": 2223677.742,
+      "previousRevenue": 5358150.0,
+      "targetRevenue": 5585600.0,
+      "marginPct": 19.1,
+      "previousMarginPct": 12.8,
+      "targetMarginPct": 27.2,
+      "occupancyPct": 85.6,
+      "previousOccupancyPct": 78.2,
+      "variableCostRate": 69.2,
+      "netProfit": 476172.9839,
+      "previousNetProfit": 688336.2188,
+      "claimRate": 0.04,
+      "specialCleaningRevenue": null,
+      "specialCleaningCost": null,
+      "avgReview": null,
+      "reviewCount": 0,
+      "cleaningNegativeRate": 0.0,
+      "cleaningPositiveCount": 0,
+      "cleaningNegativeCount": 0,
+      "mainIssue": "特記事項なし",
+      "mainPraise": "特記事項なし",
+      "riskLevel": "medium",
+      "upsellLevel": "low",
+      "nextAction": "レビュー内容の手動確認を優先",
+      "revenueTrend": [
+        {
+          "month": "2026-02",
+          "revenue": 5358150.0
+        },
+        {
+          "month": "2026-03",
+          "revenue": 2223677.742
+        }
+      ],
+      "elapsedDays": 13,
+      "daysInMonth": 31,
+      "projectedRevenue": 5302616.154000001,
+      "targetProgressPct": 39.8,
+      "projectedTargetAttainmentPct": 94.9,
+      "currentMonthMetrics": {
+        "reviewCount": 0,
+        "avgReview": null,
+        "cleaningNegativeRate": null
+      },
+      "previousMonthMetrics": {
+        "reviewCount": 0,
+        "avgReview": null,
+        "cleaningNegativeRate": null
+      },
+      "revenueDelta": -3134472.258,
+      "marginDelta": 6.3,
+      "occupancyDelta": 7.4,
+      "reviewDelta": null,
+      "cleaningNegativeRateDelta": null
+    },
+    {
+      "name": "ダイワロイネットホテル東京大崎",
+      "region": "東京",
+      "monthlyRevenue": 2173077.226,
+      "previousRevenue": 5203037.0,
+      "targetRevenue": 5202575.0,
+      "marginPct": 31.0,
+      "previousMarginPct": 21.9,
+      "targetMarginPct": 24.9,
+      "occupancyPct": 66.8,
+      "previousOccupancyPct": 70.3,
+      "variableCostRate": 56.0,
+      "netProfit": 709530.2742,
+      "previousNetProfit": 1139921.177,
+      "claimRate": 0.04,
+      "specialCleaningRevenue": null,
+      "specialCleaningCost": 550000.0,
+      "avgReview": 8.7,
+      "reviewCount": 48,
+      "cleaningNegativeRate": 6.2,
+      "cleaningPositiveCount": 13,
+      "cleaningNegativeCount": 3,
+      "mainIssue": "薬剤・アレルギー",
+      "mainPraise": "清潔感",
+      "riskLevel": "low",
+      "upsellLevel": "high",
+      "nextAction": "高品質維持を前提に特別清掃メニューを提案",
+      "revenueTrend": [
+        {
+          "month": "2026-02",
+          "revenue": 5203037.0
+        },
+        {
+          "month": "2026-03",
+          "revenue": 2173077.226
+        }
+      ],
+      "elapsedDays": 13,
+      "daysInMonth": 31,
+      "projectedRevenue": 5181953.385076922,
+      "targetProgressPct": 41.8,
+      "projectedTargetAttainmentPct": 99.6,
+      "currentMonthMetrics": {
+        "reviewCount": 16,
+        "avgReview": 7.9,
+        "cleaningNegativeRate": 12.5
+      },
+      "previousMonthMetrics": {
+        "reviewCount": 32,
+        "avgReview": 9.1,
+        "cleaningNegativeRate": 3.1
+      },
+      "revenueDelta": -3029959.774,
+      "marginDelta": 9.1,
+      "occupancyDelta": -3.5,
+      "reviewDelta": -1.2,
+      "cleaningNegativeRateDelta": 9.4
+    },
+    {
+      "name": "京成リッチモンドホテル東京錦糸町",
+      "region": "東京",
+      "monthlyRevenue": 2144140.0,
+      "previousRevenue": 4791800.0,
+      "targetRevenue": 4898070.0,
+      "marginPct": 32.9,
+      "previousMarginPct": 15.9,
+      "targetMarginPct": 28.7,
+      "occupancyPct": 86.7,
+      "previousOccupancyPct": 87.2,
+      "variableCostRate": 56.0,
+      "netProfit": 736958.4677,
+      "previousNetProfit": 763228.0417,
+      "claimRate": 0.1,
+      "specialCleaningRevenue": null,
+      "specialCleaningCost": null,
+      "avgReview": 9.2,
+      "reviewCount": 116,
+      "cleaningNegativeRate": 6.0,
+      "cleaningPositiveCount": 34,
+      "cleaningNegativeCount": 7,
+      "mainIssue": "仕上がり不足",
+      "mainPraise": "清潔感",
+      "riskLevel": "low",
+      "upsellLevel": "high",
+      "nextAction": "高品質維持を前提に特別清掃メニューを提案",
+      "revenueTrend": [
+        {
+          "month": "2026-02",
+          "revenue": 4791800.0
+        },
+        {
+          "month": "2026-03",
+          "revenue": 2144140.0
+        }
+      ],
+      "elapsedDays": 13,
+      "daysInMonth": 31,
+      "projectedRevenue": 5112949.230769231,
+      "targetProgressPct": 43.8,
+      "projectedTargetAttainmentPct": 104.4,
+      "currentMonthMetrics": {
+        "reviewCount": 42,
+        "avgReview": 9.4,
+        "cleaningNegativeRate": 11.9
+      },
+      "previousMonthMetrics": {
+        "reviewCount": 74,
+        "avgReview": 9.0,
+        "cleaningNegativeRate": 2.7
+      },
+      "revenueDelta": -2647660.0,
+      "marginDelta": 17.0,
+      "occupancyDelta": -0.5,
+      "reviewDelta": 0.4,
+      "cleaningNegativeRateDelta": 9.2
+    },
+    {
+      "name": "アパホテル蒲田駅東",
+      "region": "東京",
+      "monthlyRevenue": 2002658.065,
+      "previousRevenue": 4679520.0,
+      "targetRevenue": 5169710.0,
+      "marginPct": 25.7,
+      "previousMarginPct": 24.2,
+      "targetMarginPct": 24.0,
+      "occupancyPct": 75.0,
+      "previousOccupancyPct": 74.5,
+      "variableCostRate": 61.2,
+      "netProfit": 549010.4677,
+      "previousNetProfit": 1131403.333,
+      "claimRate": 0.04,
+      "specialCleaningRevenue": null,
+      "specialCleaningCost": null,
+      "avgReview": 7.7,
+      "reviewCount": 42,
+      "cleaningNegativeRate": 2.4,
+      "cleaningPositiveCount": 5,
+      "cleaningNegativeCount": 1,
+      "mainIssue": "水回り臭気",
+      "mainPraise": "清潔感",
+      "riskLevel": "high",
+      "upsellLevel": "high",
+      "nextAction": "臭気対策と水回り重点点検を提案",
+      "revenueTrend": [
+        {
+          "month": "2026-02",
+          "revenue": 4679520.0
+        },
+        {
+          "month": "2026-03",
+          "revenue": 2002658.065
+        }
+      ],
+      "elapsedDays": 13,
+      "daysInMonth": 31,
+      "projectedRevenue": 4775569.231923077,
+      "targetProgressPct": 38.7,
+      "projectedTargetAttainmentPct": 92.4,
+      "currentMonthMetrics": {
+        "reviewCount": 10,
+        "avgReview": 7.8,
+        "cleaningNegativeRate": 0.0
+      },
+      "previousMonthMetrics": {
+        "reviewCount": 32,
+        "avgReview": 7.7,
+        "cleaningNegativeRate": 3.1
+      },
+      "revenueDelta": -2676861.935,
+      "marginDelta": 1.5,
+      "occupancyDelta": 0.5,
+      "reviewDelta": 0.1,
+      "cleaningNegativeRateDelta": -3.1
+    },
+    {
+      "name": "ホテルケヤキゲート東京府中",
+      "region": "東京",
+      "monthlyRevenue": 1855879.677,
+      "previousRevenue": 4425395.0,
+      "targetRevenue": 4717884.0,
+      "marginPct": 22.7,
+      "previousMarginPct": 28.8,
+      "targetMarginPct": 25.7,
+      "occupancyPct": 80.3,
+      "previousOccupancyPct": 82.4,
+      "variableCostRate": 55.7,
+      "netProfit": 491687.4892,
+      "previousNetProfit": 1273752.167,
+      "claimRate": 0.0,
+      "specialCleaningRevenue": null,
+      "specialCleaningCost": null,
+      "avgReview": null,
+      "reviewCount": 0,
+      "cleaningNegativeRate": 0.0,
+      "cleaningPositiveCount": 0,
+      "cleaningNegativeCount": 0,
+      "mainIssue": "特記事項なし",
+      "mainPraise": "特記事項なし",
+      "riskLevel": "medium",
+      "upsellLevel": "low",
+      "nextAction": "レビュー内容の手動確認を優先",
+      "revenueTrend": [
+        {
+          "month": "2026-02",
+          "revenue": 4425395.0
+        },
+        {
+          "month": "2026-03",
+          "revenue": 1855879.677
+        }
+      ],
+      "elapsedDays": 13,
+      "daysInMonth": 31,
+      "projectedRevenue": 4425559.229769231,
+      "targetProgressPct": 39.3,
+      "projectedTargetAttainmentPct": 93.8,
+      "currentMonthMetrics": {
+        "reviewCount": 0,
+        "avgReview": null,
+        "cleaningNegativeRate": null
+      },
+      "previousMonthMetrics": {
+        "reviewCount": 0,
+        "avgReview": null,
+        "cleaningNegativeRate": null
+      },
+      "revenueDelta": -2569515.323,
+      "marginDelta": -6.1,
+      "occupancyDelta": -2.1,
+      "reviewDelta": null,
+      "cleaningNegativeRateDelta": null
+    },
+    {
+      "name": "コンフォートホテル横浜関内",
+      "region": "神奈川",
+      "monthlyRevenue": 1829144.839,
+      "previousRevenue": 4051890.0,
+      "targetRevenue": 4537456.75,
+      "marginPct": 33.2,
+      "previousMarginPct": 28.2,
+      "targetMarginPct": 26.0,
+      "occupancyPct": 59.9,
+      "previousOccupancyPct": 55.8,
+      "variableCostRate": 56.9,
+      "netProfit": 641143.5645,
+      "previousNetProfit": 1142185.5,
+      "claimRate": 0.0,
+      "specialCleaningRevenue": null,
+      "specialCleaningCost": null,
+      "avgReview": 8.1,
+      "reviewCount": 133,
+      "cleaningNegativeRate": 4.5,
+      "cleaningPositiveCount": 31,
+      "cleaningNegativeCount": 6,
+      "mainIssue": "水回り臭気",
+      "mainPraise": "清潔感",
+      "riskLevel": "medium",
+      "upsellLevel": "high",
+      "nextAction": "臭気対策と水回り重点点検を提案",
+      "revenueTrend": [
+        {
+          "month": "2026-02",
+          "revenue": 4051890.0
+        },
+        {
+          "month": "2026-03",
+          "revenue": 1829144.839
+        }
+      ],
+      "elapsedDays": 13,
+      "daysInMonth": 31,
+      "projectedRevenue": 4361806.923769231,
+      "targetProgressPct": 40.3,
+      "projectedTargetAttainmentPct": 96.1,
+      "currentMonthMetrics": {
+        "reviewCount": 59,
+        "avgReview": 8.0,
+        "cleaningNegativeRate": 6.8
+      },
+      "previousMonthMetrics": {
+        "reviewCount": 74,
+        "avgReview": 8.2,
+        "cleaningNegativeRate": 2.7
+      },
+      "revenueDelta": -2222745.1610000003,
+      "marginDelta": 5.0,
+      "occupancyDelta": 4.1,
+      "reviewDelta": -0.2,
+      "cleaningNegativeRateDelta": 4.1
+    },
+    {
+      "name": "ホテルコメント横浜関内",
+      "region": "神奈川",
+      "monthlyRevenue": 1811215.161,
+      "previousRevenue": 4463320.0,
+      "targetRevenue": 4631786.625,
+      "marginPct": 32.3,
+      "previousMarginPct": 31.1,
+      "targetMarginPct": 30.1,
+      "occupancyPct": 76.0,
+      "previousOccupancyPct": 79.2,
+      "variableCostRate": 53.3,
+      "netProfit": 619004.6882,
+      "previousNetProfit": 1388307.667,
+      "claimRate": 0.03,
+      "specialCleaningRevenue": null,
+      "specialCleaningCost": null,
+      "avgReview": 8.9,
+      "reviewCount": 104,
+      "cleaningNegativeRate": 5.8,
+      "cleaningPositiveCount": 43,
+      "cleaningNegativeCount": 6,
+      "mainIssue": "水回り臭気",
+      "mainPraise": "清潔感",
+      "riskLevel": "low",
+      "upsellLevel": "high",
+      "nextAction": "高品質維持を前提に特別清掃メニューを提案",
+      "revenueTrend": [
+        {
+          "month": "2026-02",
+          "revenue": 4463320.0
+        },
+        {
+          "month": "2026-03",
+          "revenue": 1811215.161
+        }
+      ],
+      "elapsedDays": 13,
+      "daysInMonth": 31,
+      "projectedRevenue": 4319051.537769231,
+      "targetProgressPct": 39.1,
+      "projectedTargetAttainmentPct": 93.2,
+      "currentMonthMetrics": {
+        "reviewCount": 30,
+        "avgReview": 8.9,
+        "cleaningNegativeRate": 3.3
+      },
+      "previousMonthMetrics": {
+        "reviewCount": 74,
+        "avgReview": 8.9,
+        "cleaningNegativeRate": 6.8
+      },
+      "revenueDelta": -2652104.8389999997,
+      "marginDelta": 1.2,
+      "occupancyDelta": -3.2,
+      "reviewDelta": 0.0,
+      "cleaningNegativeRateDelta": -3.5
+    },
+    {
+      "name": "第一イン池袋",
+      "region": "東京",
+      "monthlyRevenue": 1764101.29,
+      "previousRevenue": 4310610.0,
+      "targetRevenue": 4197090.75,
+      "marginPct": 27.7,
+      "previousMarginPct": 23.4,
+      "targetMarginPct": 25.1,
+      "occupancyPct": 74.2,
+      "previousOccupancyPct": 76.2,
+      "variableCostRate": 52.6,
+      "netProfit": 541756.5484,
+      "previousNetProfit": 1007461.417,
+      "claimRate": 0.12,
+      "specialCleaningRevenue": null,
+      "specialCleaningCost": null,
+      "avgReview": 9.2,
+      "reviewCount": 88,
+      "cleaningNegativeRate": 11.4,
+      "cleaningPositiveCount": 18,
+      "cleaningNegativeCount": 10,
+      "mainIssue": "設備老朽化",
+      "mainPraise": "清潔感",
+      "riskLevel": "medium",
+      "upsellLevel": "high",
+      "nextAction": "設備由来不満と清掃改善の切り分け報告を実施",
+      "revenueTrend": [
+        {
+          "month": "2026-02",
+          "revenue": 4310610.0
+        },
+        {
+          "month": "2026-03",
+          "revenue": 1764101.29
+        }
+      ],
+      "elapsedDays": 13,
+      "daysInMonth": 31,
+      "projectedRevenue": 4206703.076153846,
+      "targetProgressPct": 42.0,
+      "projectedTargetAttainmentPct": 100.2,
+      "currentMonthMetrics": {
+        "reviewCount": 27,
+        "avgReview": 9.2,
+        "cleaningNegativeRate": 7.4
+      },
+      "previousMonthMetrics": {
+        "reviewCount": 61,
+        "avgReview": 9.3,
+        "cleaningNegativeRate": 13.1
+      },
+      "revenueDelta": -2546508.71,
+      "marginDelta": 4.3,
+      "occupancyDelta": -2.0,
+      "reviewDelta": -0.1,
+      "cleaningNegativeRateDelta": -5.7
+    },
+    {
+      "name": "コンフォートホテルERA東京東神田",
+      "region": "東京",
+      "monthlyRevenue": 1540751.29,
+      "previousRevenue": 4047280.0,
+      "targetRevenue": 3850862.5,
+      "marginPct": 33.5,
+      "previousMarginPct": 31.3,
+      "targetMarginPct": 35.9,
+      "occupancyPct": 57.2,
+      "previousOccupancyPct": 65.8,
+      "variableCostRate": 54.0,
+      "netProfit": 540936.0591,
+      "previousNetProfit": 1266459.0,
+      "claimRate": 0.0,
+      "specialCleaningRevenue": 630000.0,
+      "specialCleaningCost": 253000.0,
+      "avgReview": 9.3,
+      "reviewCount": 148,
+      "cleaningNegativeRate": 0.7,
+      "cleaningPositiveCount": 31,
+      "cleaningNegativeCount": 1,
+      "mainIssue": "水回り臭気",
+      "mainPraise": "清潔感",
+      "riskLevel": "low",
+      "upsellLevel": "high",
+      "nextAction": "高品質維持を前提に特別清掃メニューを提案",
+      "revenueTrend": [
+        {
+          "month": "2026-02",
+          "revenue": 4047280.0
+        },
+        {
+          "month": "2026-03",
+          "revenue": 1540751.29
+        }
+      ],
+      "elapsedDays": 13,
+      "daysInMonth": 31,
+      "projectedRevenue": 3674099.23,
+      "targetProgressPct": 40.0,
+      "projectedTargetAttainmentPct": 95.4,
+      "currentMonthMetrics": {
+        "reviewCount": 0,
+        "avgReview": null,
+        "cleaningNegativeRate": null
+      },
+      "previousMonthMetrics": {
+        "reviewCount": 74,
+        "avgReview": 9.2,
+        "cleaningNegativeRate": 0.0
+      },
+      "revenueDelta": -2506528.71,
+      "marginDelta": 2.2,
+      "occupancyDelta": -8.7,
+      "reviewDelta": null,
+      "cleaningNegativeRateDelta": null
+    },
+    {
+      "name": "コートホテル新横浜",
+      "region": "神奈川",
+      "monthlyRevenue": 1526427.097,
+      "previousRevenue": 3705215.0,
+      "targetRevenue": 3747311.9,
+      "marginPct": 30.2,
+      "previousMarginPct": 27.5,
+      "targetMarginPct": 24.4,
+      "occupancyPct": 67.6,
+      "previousOccupancyPct": 70.9,
+      "variableCostRate": 52.7,
+      "netProfit": 494575.1613,
+      "previousNetProfit": 1020472.0,
+      "claimRate": 0.04,
+      "specialCleaningRevenue": null,
+      "specialCleaningCost": null,
+      "avgReview": 7.9,
+      "reviewCount": 148,
+      "cleaningNegativeRate": 7.4,
+      "cleaningPositiveCount": 19,
+      "cleaningNegativeCount": 11,
+      "mainIssue": "仕上がり不足",
+      "mainPraise": "清潔感",
+      "riskLevel": "high",
+      "upsellLevel": "high",
+      "nextAction": "客室仕上がり監査と最終チェック強化を提案",
+      "revenueTrend": [
+        {
+          "month": "2026-02",
+          "revenue": 3705215.0
+        },
+        {
+          "month": "2026-03",
+          "revenue": 1526427.097
+        }
+      ],
+      "elapsedDays": 13,
+      "daysInMonth": 31,
+      "projectedRevenue": 3639941.5390000003,
+      "targetProgressPct": 40.7,
+      "projectedTargetAttainmentPct": 97.1,
+      "currentMonthMetrics": {
+        "reviewCount": 0,
+        "avgReview": null,
+        "cleaningNegativeRate": null
+      },
+      "previousMonthMetrics": {
+        "reviewCount": 0,
+        "avgReview": null,
+        "cleaningNegativeRate": null
+      },
+      "revenueDelta": -2178787.903,
+      "marginDelta": 2.6,
+      "occupancyDelta": -3.3,
+      "reviewDelta": null,
+      "cleaningNegativeRateDelta": null
+    },
+    {
+      "name": "リッチモンドホテル東京目白",
+      "region": "東京",
+      "monthlyRevenue": 1525635.806,
+      "previousRevenue": 3663440.0,
+      "targetRevenue": 3676310.5,
+      "marginPct": 27.6,
+      "previousMarginPct": 23.7,
+      "targetMarginPct": 24.9,
+      "occupancyPct": 79.9,
+      "previousOccupancyPct": 81.7,
+      "variableCostRate": 55.0,
+      "netProfit": 455676.129,
+      "previousNetProfit": 869623.875,
+      "claimRate": 0.0,
+      "specialCleaningRevenue": null,
+      "specialCleaningCost": null,
+      "avgReview": 8.9,
+      "reviewCount": 108,
+      "cleaningNegativeRate": 8.3,
+      "cleaningPositiveCount": 28,
+      "cleaningNegativeCount": 9,
+      "mainIssue": "水回り臭気",
+      "mainPraise": "清潔感",
+      "riskLevel": "medium",
+      "upsellLevel": "high",
+      "nextAction": "臭気対策と水回り重点点検を提案",
+      "revenueTrend": [
+        {
+          "month": "2026-02",
+          "revenue": 3663440.0
+        },
+        {
+          "month": "2026-03",
+          "revenue": 1525635.806
+        }
+      ],
+      "elapsedDays": 13,
+      "daysInMonth": 31,
+      "projectedRevenue": 3638054.6143076927,
+      "targetProgressPct": 41.5,
+      "projectedTargetAttainmentPct": 99.0,
+      "currentMonthMetrics": {
+        "reviewCount": 34,
+        "avgReview": 8.9,
+        "cleaningNegativeRate": 14.7
+      },
+      "previousMonthMetrics": {
+        "reviewCount": 74,
+        "avgReview": 8.9,
+        "cleaningNegativeRate": 5.4
+      },
+      "revenueDelta": -2137804.194,
+      "marginDelta": 3.8,
+      "occupancyDelta": -1.9,
+      "reviewDelta": 0.0,
+      "cleaningNegativeRateDelta": 9.3
+    },
+    {
+      "name": "アパホテル相模原橋本駅東",
+      "region": "神奈川",
+      "monthlyRevenue": 1110590.968,
+      "previousRevenue": 2698420.0,
+      "targetRevenue": 2862457.25,
+      "marginPct": 23.2,
+      "previousMarginPct": 15.4,
+      "targetMarginPct": 28.5,
+      "occupancyPct": 65.2,
+      "previousOccupancyPct": 66.9,
+      "variableCostRate": 63.8,
+      "netProfit": 283824.7849,
+      "previousNetProfit": 414781.6667,
+      "claimRate": 0.0,
+      "specialCleaningRevenue": null,
+      "specialCleaningCost": null,
+      "avgReview": 8.4,
+      "reviewCount": 47,
+      "cleaningNegativeRate": 0.0,
+      "cleaningPositiveCount": 10,
+      "cleaningNegativeCount": 0,
+      "mainIssue": "未分類",
+      "mainPraise": "清潔感",
+      "riskLevel": "medium",
+      "upsellLevel": "medium",
+      "nextAction": "レビュー内容の手動確認を優先",
+      "revenueTrend": [
+        {
+          "month": "2026-02",
+          "revenue": 2698420.0
+        },
+        {
+          "month": "2026-03",
+          "revenue": 1110590.968
+        }
+      ],
+      "elapsedDays": 13,
+      "daysInMonth": 31,
+      "projectedRevenue": 2648332.308307693,
+      "targetProgressPct": 38.8,
+      "projectedTargetAttainmentPct": 92.5,
+      "currentMonthMetrics": {
+        "reviewCount": 7,
+        "avgReview": 7.1,
+        "cleaningNegativeRate": 0.0
+      },
+      "previousMonthMetrics": {
+        "reviewCount": 40,
+        "avgReview": 8.6,
+        "cleaningNegativeRate": 0.0
+      },
+      "revenueDelta": -1587829.032,
+      "marginDelta": 7.8,
+      "occupancyDelta": -1.8,
+      "reviewDelta": -1.5,
+      "cleaningNegativeRateDelta": 0.0
+    },
+    {
+      "name": "コンフォートホテル成田",
+      "region": "千葉",
+      "monthlyRevenue": 1087810.0,
+      "previousRevenue": 2655760.0,
+      "targetRevenue": 2793069.0,
+      "marginPct": 21.2,
+      "previousMarginPct": 26.7,
+      "targetMarginPct": 26.3,
+      "occupancyPct": 63.2,
+      "previousOccupancyPct": 65.9,
+      "variableCostRate": 54.1,
+      "netProfit": 266155.5161,
+      "previousNetProfit": 709934.625,
+      "claimRate": 0.0,
+      "specialCleaningRevenue": null,
+      "specialCleaningCost": null,
+      "avgReview": 8.7,
+      "reviewCount": 117,
+      "cleaningNegativeRate": 6.8,
+      "cleaningPositiveCount": 19,
+      "cleaningNegativeCount": 8,
+      "mainIssue": "水回り臭気",
+      "mainPraise": "清潔感",
+      "riskLevel": "low",
+      "upsellLevel": "high",
+      "nextAction": "高品質維持を前提に特別清掃メニューを提案",
+      "revenueTrend": [
+        {
+          "month": "2026-02",
+          "revenue": 2655760.0
+        },
+        {
+          "month": "2026-03",
+          "revenue": 1087810.0
+        }
+      ],
+      "elapsedDays": 13,
+      "daysInMonth": 31,
+      "projectedRevenue": 2594008.4615384615,
+      "targetProgressPct": 38.9,
+      "projectedTargetAttainmentPct": 92.9,
+      "currentMonthMetrics": {
+        "reviewCount": 43,
+        "avgReview": 8.9,
+        "cleaningNegativeRate": 2.3
+      },
+      "previousMonthMetrics": {
+        "reviewCount": 74,
+        "avgReview": 8.5,
+        "cleaningNegativeRate": 9.5
+      },
+      "revenueDelta": -1567950.0,
+      "marginDelta": -5.5,
+      "occupancyDelta": -2.7,
+      "reviewDelta": 0.4,
+      "cleaningNegativeRateDelta": -7.2
+    },
+    {
+      "name": "コンフォートイン六本木",
+      "region": "東京",
+      "monthlyRevenue": 1040195.484,
+      "previousRevenue": 2842630.0,
+      "targetRevenue": 2647393.5,
+      "marginPct": 29.9,
+      "previousMarginPct": 33.9,
+      "targetMarginPct": 27.1,
+      "occupancyPct": 64.6,
+      "previousOccupancyPct": 72.3,
+      "variableCostRate": 49.4,
+      "netProfit": 339184.9677,
+      "previousNetProfit": 964810.5,
+      "claimRate": 0.0,
+      "specialCleaningRevenue": null,
+      "specialCleaningCost": null,
+      "avgReview": 8.4,
+      "reviewCount": 94,
+      "cleaningNegativeRate": 10.6,
+      "cleaningPositiveCount": 29,
+      "cleaningNegativeCount": 10,
+      "mainIssue": "水回り臭気",
+      "mainPraise": "清潔感",
+      "riskLevel": "medium",
+      "upsellLevel": "high",
+      "nextAction": "臭気対策と水回り重点点検を提案",
+      "revenueTrend": [
+        {
+          "month": "2026-02",
+          "revenue": 2842630.0
+        },
+        {
+          "month": "2026-03",
+          "revenue": 1040195.484
+        }
+      ],
+      "elapsedDays": 13,
+      "daysInMonth": 31,
+      "projectedRevenue": 2480466.154153846,
+      "targetProgressPct": 39.3,
+      "projectedTargetAttainmentPct": 93.7,
+      "currentMonthMetrics": {
+        "reviewCount": 22,
+        "avgReview": 8.7,
+        "cleaningNegativeRate": 9.1
+      },
+      "previousMonthMetrics": {
+        "reviewCount": 72,
+        "avgReview": 8.2,
+        "cleaningNegativeRate": 11.1
+      },
+      "revenueDelta": -1802434.5159999998,
+      "marginDelta": -4.0,
+      "occupancyDelta": -7.7,
+      "reviewDelta": 0.5,
+      "cleaningNegativeRateDelta": -2.0
+    }
+  ],
+  "actions": [
+    {
+      "priority": "High",
+      "hotel": "コンフォートホテル博多",
+      "reason": "評価 8.0 / 清掃ネガ率 12.8% / 前月差 -5.1pt",
+      "owner": "Operations"
+    },
+    {
+      "priority": "High",
+      "hotel": "チサンホテル浜松町",
+      "reason": "評価 7.1 / 清掃ネガ率 12.3% / 前月差 14.5pt",
+      "owner": "Operations"
+    },
+    {
+      "priority": "High",
+      "hotel": "アパホテル蒲田駅東",
+      "reason": "評価 7.7 / 清掃ネガ率 2.4% / 前月差 -3.1pt",
+      "owner": "Operations"
+    },
+    {
+      "priority": "High",
+      "hotel": "コートホテル新横浜",
+      "reason": "評価 7.9 / 清掃ネガ率 7.4%",
+      "owner": "Operations"
+    },
+    {
+      "priority": "Medium",
+      "hotel": "ハートンホテル東品川",
+      "reason": "月商 4,872,496円 / 次提案: 仕上がり不足",
+      "owner": "Sales"
+    },
+    {
+      "priority": "Low",
+      "hotel": "変なホテル東京羽田",
+      "reason": "品質監視継続 / 主課題: 特記事項なし",
+      "owner": "Management"
+    },
+    {
+      "priority": "Low",
+      "hotel": "ホテルケヤキゲート東京府中",
+      "reason": "品質監視継続 / 主課題: 特記事項なし",
+      "owner": "Management"
+    },
+    {
+      "priority": "Medium",
+      "hotel": "コンフォートホテル横浜関内",
+      "reason": "月商 1,829,144円 / 次提案: 水回り臭気",
+      "owner": "Sales"
+    }
+  ],
+  "executiveSummary": [
+    "3月13日時点の売上は 4,173万円、月末着地見込みは 9,951万円です。平均達成見込みは 94.9% です。",
+    "品質面では チサンホテル浜松町、コートホテル新横浜、アパホテル蒲田駅東 の優先度が高く、清掃ネガ率や評価差の悪化を先に確認したい状況です。",
+    "売上面では チサンホテル浜松町 が90%未達見込みで、進捗フォローか追加提案の優先対象です。"
+  ],
+  "metadata": {
+    "sourceSheetId": "1f3DjbrRJifbIK1n-Xpfup-O5cFExnqr4G3cs75Aa43U",
+    "sourceGid": "117684960",
+    "reviewCount": 1767,
+    "skippedHotels": [],
+    "note": "口コミと各ホテルブック内の月報・集計・年間集計・特別清掃シートを使用"
+  }
+}
