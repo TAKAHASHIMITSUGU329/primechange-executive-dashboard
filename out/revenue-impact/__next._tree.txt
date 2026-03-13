@@ -1,0 +1,2 @@
+:HL["/primechange-executive-dashboard/_next/static/chunks/d437a32a62383e6d.css","style"]
+0:{"buildId":"R3TAArNFweOOARdI-zl_6","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"revenue-impact","paramType":null,"paramKey":"revenue-impact","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
