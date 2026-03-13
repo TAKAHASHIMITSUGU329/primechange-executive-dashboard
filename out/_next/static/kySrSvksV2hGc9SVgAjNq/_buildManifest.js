@@ -1,7 +1,12 @@
 self.__BUILD_MANIFEST = {
   "__rewrites": {
     "afterFiles": [],
-    "beforeFiles": [],
+    "beforeFiles": [
+      {
+        "source": "/primechange-executive-dashboard//_next/:path+",
+        "destination": "/primechange-executive-dashboard/_next/:path+"
+      }
+    ],
     "fallback": []
   },
   "sortedPages": [
